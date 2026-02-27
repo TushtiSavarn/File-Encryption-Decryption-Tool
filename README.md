@@ -1,24 +1,71 @@
-# File-Encryption-Decryption-Tool-For-Micro-IT
-🚀 I had the opportunity to intern at Micro Information Technology Services
- as a Software Developer in the domain of Artificial Intelligence/Machine Learning. As part of the internship, I designed and developed a File Encryption/Decryption Tool — a real-world utility app that integrates concepts of cybersecurity, Python development, and user-friendly UI design.
+# 🔐 File Encryption & Decryption Tool
 
-#🔧 Tech Stack:
--Python
--Streamlit for web-based UI
--Cryptography library for AES-based secure encryption
--SHA256 hashing for file integrity verification
+A secure and user-friendly File Encryption & Decryption Tool built using Python, Streamlit, and Cryptography.
+This project allows users to encrypt and decrypt files safely using password-based encryption with secure hashing.
 
-#🎯 Key Features:
--Password-based file encryption & decryption
--SHA256 hash generation to verify file integrity
--Bulk file encryption support
--Clean and intuitive Streamlit UI
--Built with user privacy and security in mind
+Built during internship to apply real-world cybersecurity and cryptography concepts.
+---
 
-#💡 This project gave me valuable hands-on experience in:
--Real-world application of cryptographic techniques
--Building secure, scalable Python apps
--Designing clean, interactive UIs using Streamlit
--Integrating AI/ML internship concepts into practical software development workflows
+# 📌 Project Overview
 
-👩‍💻 Excited to keep learning and building in the intersection of AI, software development, and cybersecurity!
+This application enables users to:
+
+Encrypt files using password-based encryption
+
+Decrypt previously encrypted files
+
+Generate secure SHA-256 hashes
+
+Ensure file integrity and confidentiality
+
+Use an interactive Streamlit-based UI
+
+The project demonstrates practical implementation of:
+
+Cryptography principles
+
+Secure password handling
+
+Hashing mechanisms
+
+User interface integration
+
+Secure file management
+
+---
+
+# 🚀 Features
+
+✅ File Encryption using password
+✅ File Decryption with correct key
+✅ SHA-256 Hash Generation
+✅ Password-based key derivation
+✅ Streamlit Web Interface
+✅ Secure handling of sensitive data
+✅ Easy-to-use workflow
+
+---
+
+# 🛠 Tech Stack
+
+Python
+
+Streamlit
+
+Cryptography Library
+
+---
+
+# 👩‍💻 Author
+
+Tushti Savarn
+MCA Student | Full-Stack & AI/ML Enthusiast
+Passionate about building secure and scalable systems.
+
+ Linkdeln: https://www.linkedin.com/in/tushti-savarn/ 
+ GitHub: https://github.com/TushtiSavarn
+ 
+
+Hashlib (SHA-256)
+
+File Handling
